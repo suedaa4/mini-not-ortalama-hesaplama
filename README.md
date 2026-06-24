@@ -1,0 +1,1 @@
+# mini-not-ortalama-hesaplama
